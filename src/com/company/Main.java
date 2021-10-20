@@ -36,7 +36,7 @@ public class Main {
                                 System.out.println("This student gets a grade A");
                             } else {
                                 if (Percentage > 100) {
-                                    System.out.println("That is an invalid percentage, you can't get more than the maximum mark, stupid Mameed!");
+                                    System.out.println("That is an invalid percentage, you can't get more than the maximum mark, stupid idiot!");
                                 }
                             }
                         }
